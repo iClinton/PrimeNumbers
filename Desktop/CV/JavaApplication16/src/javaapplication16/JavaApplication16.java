@@ -5,8 +5,6 @@
  */
 package javaapplication16;
 
-import java.util.ArrayList;
-
 /**
  *
  * @author Clinton
