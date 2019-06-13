@@ -16,6 +16,7 @@ public class PrimeNumbers {
         //Creates two lists. one for storing the primes numbers and one for the results of numbers being divided.
         ArrayList<Integer> List = new ArrayList<>();
         ArrayList<Integer> DivNums = new ArrayList<>();
+        
         for (int i = startNumber; i < finalNumber; i++) {
             for (int j = 1; j < i; j++) {
                 //if a number has remainder of 0 add it to divied number list
